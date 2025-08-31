@@ -35,7 +35,7 @@ The **Shipping microservice** is a core component of the Roboshop platform, hand
 
 ## Tech Stack
 
-- **Language**: [Specify language here, e.g., Node.js, Python, Java, etc.]
+- **Language**:Java
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes (EKS on AWS)
 - **CI/CD**: Jenkins (with shared library)
